@@ -22,8 +22,8 @@
 	<body>
 		<div id="startScreen">
 			<h2>IndHorror</h2>
-			<button onclick="window.location.href='http://localhost/IndHorror/impact/myGame.html'">Start Game</button><br>
-			<button onclick="window.location.href='http://localhost/IndHorror/impact/currentHighscore.php'">check out the current high score</button>
+			<button onclick="window.location.href='http://localhost/javascriptEindopdracht/IndHorror/impact/myGame.html'">Start Game</button><br>
+			<button onclick="window.location.href='http://localhost/javascriptEindopdracht/IndHorror/impact/currentHighscore.php'">check out the current high score</button>
 		</div>
 		
 	</body>

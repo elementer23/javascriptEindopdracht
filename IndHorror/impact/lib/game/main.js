@@ -20,7 +20,7 @@ MyGame = ig.Game.extend({
 	gravity: 300,
 	player: null,
 	score_points: 0,
-	has_key: "yes",
+	has_key: "no",
 	
 	
 	init: function() {

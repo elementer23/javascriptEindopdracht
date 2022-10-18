@@ -42,7 +42,7 @@ ig.module('game.entities.teleportTrigger')
                 other.pos.x = 1608;
                 other.pos.y = 112;
             } else {
-                window.location.href = 'http://localhost/IndHorror/impact/currentHighscore.php';
+                window.location.href = 'http://localhost/javascriptEindopdracht/IndHorror/impact/currentHighscore.php';
             }
         }
 

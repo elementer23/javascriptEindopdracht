@@ -5,8 +5,8 @@ LevelLevel_1=/*JSON[*/{
 	"entities": [
 		{
 			"type": "EntityPlayer",
-			"x": 1600,
-			"y": 112
+			"x": 60,
+			"y": 864
 		},
 		{
 			"type": "EntityItem",

@@ -24,10 +24,10 @@
             <h2>IndHorror current highscore</h2>
             <span id="points"></span>
 			<h2>IndHorror</h2>
-			<button onclick="window.location.href='http://localhost/IndHorror/impact/'">go back to start screen</button>
+			<button onclick="window.location.href='http://localhost/javascriptEindopdracht/IndHorror/impact/'">go back to start screen</button>
 		</div>
 		<script>
-			document.getElementById('points').innerText = localStorage.getItem('point');
+			document.getElementById('points').innerText = "highscore points: " + localStorage.getItem('point');
 		</script>
 	</body>
 </html>

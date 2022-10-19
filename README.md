@@ -25,4 +25,4 @@ In het spel moet je **punten verzamelen** om verder te gaan. Je hebt twee versch
 
 Verder in het level vindt je een **sleutel**, deze **sleutel** is afgeschermt door blokjes om door de **blokjes heen te komen**. Moet je door de **drie bovenste blokjes** heen springen en om eruit te komen moet je door de **twee onderste blokjes** lopen. Om de sleutel uberhaupt op te kunnen pakken moet je eerst **400 punten** verzamelen. **Belangrijk!** er zijn niet genoeg **edelstenen** om de **400 punten** te behalen, dus moet je de confrontatie aan en de **monsters** verslaan. **Belangrijk!** als je **de sleutel** niet oppakt kan je het spel ook niet afmaken.
 
-**Zie gameplay hier:** *insert link*
+**Zie gameplay hier:** https://youtu.be/j1RJX17kSM0
